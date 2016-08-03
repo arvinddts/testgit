@@ -7,6 +7,8 @@ public class HelloWorld {
 
 		System.out.println("First Java Sample");
 		
+		System.out.println("Second Java Sample");
+		
 
 	}
 
